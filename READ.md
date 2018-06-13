@@ -1,0 +1,1 @@
+A simple example using firebase functions to generate pdf from HTML, using html-pdf
